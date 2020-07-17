@@ -5,7 +5,7 @@ import java.util.Scanner;
 //
 //7/16/20
 //
-//CPSC-501-Lab2Ex5
+//CPSC-501-Lab2Ex6
 //********************************************************************
 
 public class NumDisplay {
